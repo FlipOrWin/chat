@@ -1,0 +1,3 @@
+usa el comando 'npm i' por si quedan dependencias pendientes de instalar
+usa el comando 'yarn start' para correrlo de forma local en http://localhost:3000
+usa el comando 'yarn build' para realizar el build de la aplicacion
